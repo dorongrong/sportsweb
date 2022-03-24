@@ -70,6 +70,7 @@ const Home = (): JSX.Element => {
                             </Grid>
                         </Grid>
                     </Grid>
+                    <div> 라라라라라라</div>
                 </Grid>
             </Box >
         </Box >
